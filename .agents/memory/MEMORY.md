@@ -1,0 +1,1 @@
+- [Vercel Next.js portfolio port](vercel-nextjs-portfolio-port.md) — copy-frontend script assumes Vite-shaped src/; for Next.js app-router source, pass `--client-dir src` and manually convert app/ routing afterward.
